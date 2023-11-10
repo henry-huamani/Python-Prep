@@ -1,0 +1,3 @@
+timestamp,temperatura,humedad,lluvia
+1699643433,10,25,False
+1699643433,50,5,True
